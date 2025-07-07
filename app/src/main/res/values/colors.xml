@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#003366</color>
+    <color name="primaryVariant">#002147</color>
+    <color name="secondary">#FF6600</color>
+    <color name="secondaryVariant">#FF6600</color>
+    <color name="accent">#C0C0C0</color>
+    <color name="bg_color">#F5F5F5</color>
+    <color name="success_color">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+
+    <color name="very_weak_password">#FF0000</color>
+    <color name="weak_password">#FF6B6B</color>
+    <color name="moderate_password">#FFA500</color>
+    <color name="strong_password">#4CAF50</color>
+    <color name="very_strong_password">#008000</color>
+    <color name="unknown_strength_password">#808080</color>
+</resources>

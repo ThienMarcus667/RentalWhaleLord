@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055560448746",
+    "firebase_url": "https://rentalwheels-8993f-default-rtdb.firebaseio.com",
+    "project_id": "rentalwheels-8993f",
+    "storage_bucket": "rentalwheels-8993f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055560448746:android:3b4a0784a0df0df56a3593",
+        "android_client_info": {
+          "package_name": "com.msdc.rentalwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055560448746-9c4fi7set60chbq646uitanmdj26j85t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTSaV2KrUxyxiMuQ81kintA191WZ4x_pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055560448746-9c4fi7set60chbq646uitanmdj26j85t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
