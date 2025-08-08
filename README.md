@@ -34,9 +34,7 @@ RentalWheels là ứng dụng cho thuê xe với giá cắt cổ
 
 ### hướng cài đặt
 
-1. Clone the repository:
-
-git clone https://github.com/ThienMarcus667/RentalWhaleLord.git
+1. Clone the repository:git clone https://github.com/ThienMarcus667/RentalWhaleLord.git
 2. mở ứng dụng trong Android Studio.
 3. Sync ứng dụng với Gradle files.
 4. Set up Firebase project và thêm file `google-services.json`
